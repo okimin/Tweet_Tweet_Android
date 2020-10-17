@@ -55,7 +55,8 @@ The following **optional** features are implemented:
 
 Here's a walkthrough of implemented user stories:
 
-<img src='Tweet_Tweet.gif' title='Video Walkthrough' width='' alt='Video Walkthrough' />
+<img src='Tweet_Part_2.gif' title='Video Walkthrough' width='' alt='Video Walkthrough' />
+<img src='Supplement_Tweet.gif' title='Video Walkthrough' width='' alt='Video Walkthrough' />
 
 GIF created with [LiceCap](http://www.cockos.com/licecap/).
 
