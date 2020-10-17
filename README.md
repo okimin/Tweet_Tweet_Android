@@ -3,6 +3,8 @@
 **Tweet Tweet** is an android app that allows a user to view his Twitter timeline. The app utilizes [Twitter REST API](https://dev.twitter.com/rest/public).
 
 Time spent: **12** hours spent in total
+            **8** in Part 1
+            **4** in Part 2
 
 ## Part 1
 
@@ -56,7 +58,7 @@ The following **optional** features are implemented:
 Here's a walkthrough of implemented user stories:
 
 <img src='Tweet_Part_2.gif' title='Video Walkthrough' width='' alt='Video Walkthrough' />
-<img src='Supplement_Tweet.gif' title='Video Walkthrough' width='' alt='Video Walkthrough' />
+<img src='Supplement_Part_2.gif' title='Video Walkthrough' width='' alt='Video Walkthrough' />
 
 GIF created with [LiceCap](http://www.cockos.com/licecap/).
 
